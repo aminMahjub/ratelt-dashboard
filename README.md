@@ -25,7 +25,7 @@ Guide users on how to install your project. Include steps, commands, and depende
 1. **Clone the Repository:**
    ```bash
     git clone https://github.com/yourusername/yourproject.git
-2. ** Install the dependencies:**
+2. **Install the dependencies:**
    ```bash
    cd yourproject
    pnpm install
